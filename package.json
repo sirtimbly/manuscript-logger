@@ -1,0 +1,17 @@
+{
+  "name": "manuscript-logger",
+  "version": "0.1.0",
+  "description": "A program that examines markdown files in a folder and logs progress on a book",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "js-yaml": "^3.2.2",
+    "minimist": "1.1.0",
+    "walk": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
