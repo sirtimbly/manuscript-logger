@@ -9,7 +9,7 @@ To install this script on your machine simply run `npm install manuscript-logger
 
 ## Usage
 
-Run `node index.js manuscriptdir/` the only argument is the directory you would like it to scan. It will scan sub-directories too.
+Run `manuscript-logger manuscriptdir/` that one argument is the directory you would like it to scan. It will scan sub-directories too.
 
 
 When it runs it will create or append to a file in that directory called `_meta.progress.csv` with the current date and time, the number of files scanned, and the total word count from all those files (ignoring the meta headers). This CSV file should allow you to track and report on your own progress in a writing project.

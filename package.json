@@ -1,6 +1,6 @@
 {
   "name": "manuscript-logger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A program that examines markdown files in a folder and logs progress on a book",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sirtimbly/manuscript-logger.git"
+    "url": "https://github.com/sirtimbly/manuscript-logger.git"
   },
   "preferGlobal": "true",
   "bin": {
